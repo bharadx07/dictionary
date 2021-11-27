@@ -1,0 +1,8 @@
+HTML is the language of the web
+
+To Run It:
+1. Open a brower
+2. Ctr+O and open the HTML File
+3. You will see the website
+
+It is written in a XML Like Syntax

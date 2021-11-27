@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML</title>
+    <style>
+      * {
+        outline: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: rgba(218, 34, 255, 0.1);
+      }
+
+      main {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 2rem;
+        text-align: center;
+        margin: 0 auto;
+        width: 400px;
+      }
+      h1 {
+        font-size: 1.5rem;
+        font-weight: normal;
+      }
+
+      span {
+        font-weight: bold;
+      }
+
+      button {
+        padding: 0.8rem;
+        margin: 1rem 0;
+        background: linear-gradient(to left, #fc6767, #ec008c);
+        border: none;
+        color: white;
+        font-size: 1.1rem;
+        cursor: pointer;
+        border-radius: 3rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>You Have Clicked the Button <span>0</span> times</h1>
+      <button>Increment Count</button>
+    </main>
+
+    <script>
+      const s = (value) => {
+        return document.querySelector(value);
+      };
+
+      const button = s("button");
+
+      const span = s("span");
+
+      button.addEventListener("click", (e) => {
+        e.preventDefault();
+        span.textContent = parseInt(span.textContent) + 1;
+      });
+    </script>
+  </body>
+</html>

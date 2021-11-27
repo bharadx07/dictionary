@@ -1,0 +1,7 @@
+For It to Work:
+1. Download dotnet SDK
+2. Download VS Code C# extention or something different for other text editors
+3. Run: "dotnet run" to run the current project
+
+Create a project:
+"dotnet new console"
