@@ -6,5 +6,5 @@
 ### Usage
 1. Create a 3D Model with a tool like [3D Builder](https://www.microsoft.com/en-us/p/3d-builder/9wzdncrfj3t6?activetab=pivot:overviewtab).
 2. Save as a OBJ or another 3D file format.
-3. Open the file or use [3D Viewer](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-3dviewer) in VS Code!
+3. Open the file or use [3D Viewer](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-3dviewer) in VS Code.
 
