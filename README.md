@@ -1,9 +1,9 @@
 # Tech/File Collections
 
-#### In the files folder, you will find info about the usages and implementations of a lot of different file types
-#### In the tech folder, you will find different implementations of random libraries and tech
+```files/~``` - File types. 
+```tech/~``` - Programming technology.
 
-# What I'm Learning / What have I learned
+# Learned (WIP)
 
 * HTML
 * CSS
@@ -15,3 +15,6 @@
 * Python
 * C# 
 * Golang
+
+# 2021 Learning List
+* Remix
