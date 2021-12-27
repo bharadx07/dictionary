@@ -1,8 +1,0 @@
-Ways to create 3d Models
--- Reminder there are many more types of 3d files like .blend and more
-
-Guide:
-1. Create the 3D Model With a tool like: https://www.microsoft.com/en-us/p/3d-builder/9wzdncrfj3t6?activetab=pivot:overviewtab -- 3D Buildier || Paint 3D
-2. Save as a OBJ or any other File Format
-3. Either view in App or use: https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-3dviewer (3D viewer) in VS Code
-
