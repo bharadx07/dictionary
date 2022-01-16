@@ -16,6 +16,8 @@
 - C#
 - Golang
 
-# 2021 Learning List
+# Learned in 2022
 
-- Remix
+- Discord Bots (discord.py + discord.js)
+- NPM Packages
+- Testing with Jest
