@@ -20,4 +20,4 @@
 
 - Discord Bots (discord.py + discord.js)
 - NPM Packages
-- Testing with Jest
+- Unit Testing with Jest
