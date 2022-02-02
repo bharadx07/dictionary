@@ -21,3 +21,4 @@
 - Discord Bots (discord.py + discord.js)
 - NPM Packages
 - Unit Testing with Jest
+- VM and Compilers + Creating a backend framework 
