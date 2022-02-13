@@ -22,3 +22,4 @@
 - NPM Packages
 - Unit Testing with Jest
 - VM and Compilers + Creating a backend framework 
+- Gradle + WPLIB
